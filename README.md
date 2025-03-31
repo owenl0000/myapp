@@ -19,7 +19,3 @@ This project focuses on **building a scalable microservices application using Ja
 ✅ PostgreSQL database integration  
 ✅ CI/CD pipeline setup for automated deployments  
 
-## 📌 Setup Instructions  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-repo/java-microservices-k8s.git
